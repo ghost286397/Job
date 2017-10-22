@@ -1,0 +1,22 @@
+Start
+More_games
+No_ads
+Menu
+Continue
+Main_menu
+Retry
+New_high_score
+Score
+High_score
+Other_cool_runners
+Avoid_barriers
+Crush
+Destroy
+Bombs
+Break
+In_order to break the wall you need a speed above N
+Got_it
+Coyote
+Chubby
+Skins
+Purchase
